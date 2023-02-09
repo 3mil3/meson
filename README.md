@@ -9,6 +9,8 @@ build system.
 [![PyPI](https://img.shields.io/pypi/v/meson.svg)](https://pypi.python.org/pypi/meson)
 [![Build Status](https://dev.azure.com/jussi0947/jussi/_apis/build/status/mesonbuild.meson)](https://dev.azure.com/jussi0947/jussi/_build/latest?definitionId=1)
 [![Codecov](https://codecov.io/gh/mesonbuild/meson/coverage.svg?branch=master)](https://codecov.io/gh/mesonbuild/meson/branch/master)
+[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow_small.svg)](https:///pr.new/github.com/3mil3/meson)
+
 
 #### Dependencies
 
